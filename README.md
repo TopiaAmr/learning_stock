@@ -6,7 +6,7 @@ A Flutter application for learning about stocks and financial markets with a cle
 
 The project follows a clean architecture approach with clear separation of concerns:
 
-```
+```html
 lib/
 ├── core/                 # Core functionality used across the app
 │   ├── constants/        # App constants
